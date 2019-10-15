@@ -9,7 +9,7 @@ Note
 2. Secondly, PHP 7 has removed support for the mysql extension and affects the following: Any queries using a mysql_connect function will not function. PHP 7 only allows connections to a MySQL database using mysqli or PDO_MySQL.
 
 
-The most significant features of PHP 7 are:
+## Most significant features of PHP 7
 
 
 1. Improved performance − Having PHPNG code merged in PHP7, it is twice as fast as PHP 5.
